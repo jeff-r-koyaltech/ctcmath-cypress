@@ -1,0 +1,18 @@
+{
+  "name": "ctcmath-cypress",
+  "version": "1.0.0",
+  "description": "Automating some mundane parts of my life",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jeff-r-koyaltech/ctcmath-cypress.git"
+  },
+  "author": "jeff-r-koyaltech",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.4.1"
+  }
+}
