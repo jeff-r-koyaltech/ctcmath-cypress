@@ -1,5 +1,5 @@
 import creds from '../creds.json';
-describe('template spec', () => {
+describe('CTCMath spec', () => {
   creds.accounts.map(({
     username,
     password,
